@@ -1,0 +1,1722 @@
+[
+  {
+    "Particulars": "Particulars",
+    "Unit": " 3-2014"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains",
+    "Unit": "257.13"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Kharif",
+    "Unit": "128.07"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rabi",
+    "Unit": "129.06"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice",
+    "Unit": "105.24"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Kharif",
+    "Unit": "92.37"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Rabi",
+    "Unit": "12.87"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Rabi",
+    "Unit": "93.51"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Jowar",
+    "Unit": "5.28"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Jowar Kharif",
+    "Unit": "2.84"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Jowar Rabi",
+    "Unit": "2.44"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Bajra Kharif",
+    "Unit": "8.74"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Maize",
+    "Unit": "22.26"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Maize Kharif",
+    "Unit": "16.19"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Maize Rabi",
+    "Unit": "6.06"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Ragi Kharif",
+    "Unit": "1.57"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Small Millets Kharif",
+    "Unit": "0.44"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Barley Rabi",
+    "Unit": "1.75"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals",
+    "Unit": "40.04"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Kharif",
+    "Unit": "29.79"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Rabi",
+    "Unit": "10.25"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Cereals",
+    "Unit": "238.79"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Cereals Kharif",
+    "Unit": "122.16"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Cereals Rabi",
+    "Unit": "116.63"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Tur Kharif",
+    "Unit": "3.02"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Other Kharif Pulses Kharif",
+    "Unit": "0.62"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Gram Rabi",
+    "Unit": "8.83"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Other Kharif Pulses Rabi",
+    "Unit": "2.73"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Pulses",
+    "Unit": "18.34"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Pulses Kharif",
+    "Unit": "5.91"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Pulses Rabi",
+    "Unit": "12.43"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds",
+    "Unit": "30.943"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Kharif",
+    "Unit": "20.791"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Rabi",
+    "Unit": "10.152"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Groundnut",
+    "Unit": "4.695"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Groundnut Kharif",
+    "Unit": "3.187"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Groundnut Rabi",
+    "Unit": "1.508"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Castorseed Kharif",
+    "Unit": "1.964"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Sesamun Kharif",
+    "Unit": "0.685"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Nigerseed Kharif",
+    "Unit": "0.102"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Rapeseed and Mustard Rabi",
+    "Unit": "8.029"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Linseed Rabi",
+    "Unit": "0.149"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Safflower Rabi",
+    "Unit": "0.109"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Sunflower",
+    "Unit": "0.544"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Sunflower Kharif",
+    "Unit": "0.187"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Sunflower Rabi",
+    "Unit": "0.357"
+  },
+  {
+    "Particulars": "Agricultural Production Oilseeds Soyabean Kharif",
+    "Unit": "14.666"
+  },
+  {
+    "Particulars": "Agricultural Production Commercial Crops Cotton",
+    "Unit": "34.22"
+  },
+  {
+    "Particulars": "Agricultural Production Commercial Crops Jute",
+    "Unit": "10.34"
+  },
+  {
+    "Particulars": "Agricultural Production Commercial Crops Mesta",
+    "Unit": "0.59"
+  },
+  {
+    "Particulars": "Agricultural Production Commercial Crops Jute and Mesta",
+    "Unit": "10.93"
+  },
+  {
+    "Particulars": "Agricultural Production Commercial Crops Sugarcane",
+    "Unit": "341.2"
+  },
+  {
+    "Particulars": "Agricultural Production Plantation Crops Potato",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Plantation Crops Onion",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Plantation Crops Tobacco",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Plantation Crops Coconut",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Plantation Crops Cashewnut",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Rice",
+    "Unit": "104"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Wheat",
+    "Unit": "88"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Coarse Cereals",
+    "Unit": "44"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Pulses",
+    "Unit": "18.24"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Foodgrains",
+    "Unit": "254.24"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Oilseeds",
+    "Unit": "33.5"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Sugarcane",
+    "Unit": "352"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Cotton",
+    "Unit": "35"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Target Jute and Mesta",
+    "Unit": "12"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Rice",
+    "Unit": "104.4"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Wheat",
+    "Unit": "92.46"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Coarse Cereals",
+    "Unit": "40.06"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Pulses",
+    "Unit": "18.45"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Foodgrains",
+    "Unit": "255.36"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Oilseeds",
+    "Unit": "31.01"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Sugarcane",
+    "Unit": "338.96"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Cotton",
+    "Unit": "34"
+  },
+  {
+    "Particulars": "Agricultural Production Major Crops Achievements Jute and Mesta",
+    "Unit": "11.3"
+  },
+  {
+    "Particulars": "Agricultural Production Area",
+    "Unit": "120.8"
+  },
+  {
+    "Particulars": "Agricultural Production Volume",
+    "Unit": "255.36"
+  },
+  {
+    "Particulars": "Agricultural Production Yield",
+    "Unit": "2128"
+  },
+  {
+    "Particulars": "Agricultural Production Kharif Area",
+    "Unit": "67.7"
+  },
+  {
+    "Particulars": "Agricultural Production Kharif Volume",
+    "Unit": "128.2"
+  },
+  {
+    "Particulars": "Agricultural Production Kharif Yield",
+    "Unit": "1892"
+  },
+  {
+    "Particulars": "Agricultural Production Rabi Area",
+    "Unit": "53.1"
+  },
+  {
+    "Particulars": "Agricultural Production Rabi Volume",
+    "Unit": "127.16"
+  },
+  {
+    "Particulars": "Agricultural Production Rabi Yield",
+    "Unit": "2431"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rice Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rice Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rice Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Wheat Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Jowar Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Jowar Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Jowar Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Bajra Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Maize Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Maize Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Maize Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Tur Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Gram Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Groundnut",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Rapeseed and Mustard Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Soyabean Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Sunflower",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Cotton",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Jute and Mesta",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Onion",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Potato",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Sugarcane",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Rice Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Production Foodgrains Coarse Cereals Rice Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Rice Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Wheat Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Jowar Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Jowar Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Jowar Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Bajra Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Maize Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Maize Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Maize Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Pulses Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Pulses Tur Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Pulses Gram Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Pulses Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Foodgrains Pulses Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Groundnut",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Rapeseed and Mustard Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Soyabean Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Sunflower",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Other Cash Crops Cotton",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Other Cash Crops Jute and Mesta",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Other Cash Crops Onion",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Other Cash Crops Potato",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Production Other Cash Crops Sugarcane",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Rice Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Foodgrains Coarse Cereals Rice Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Rice Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Wheat Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Jowar Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Jowar Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Jowar Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Bajra Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Maize Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Maize Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Maize Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Pulses Total",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Pulses Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Pulses Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Pulses Tur Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Foodgrains Pulses Gram Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Groundnut",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Rapeseed and Mustard Rabi",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Soyabean Kharif",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Sunflower",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Other Cash Crops Cotton",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Other Cash Crops Jute and Mesta",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Other Cash Crops Onion",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Other Cash Crops Potato",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agriculture Production Foodgrains Yield Other Cash Crops Sugarcane",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "(DC)Agricultural Coverage Under Irrigation",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Andhra Pradesh",
+    "Unit": "6.85"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Assam",
+    "Unit": "2.52"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Bihar",
+    "Unit": "6.71"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Chhattisgarh",
+    "Unit": "5.04"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Gujarat",
+    "Unit": "3.68"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Haryana",
+    "Unit": "4.39"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Jharkhand",
+    "Unit": "2.31"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Karnataka",
+    "Unit": "7.42"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Madhya Pradesh",
+    "Unit": "14.13"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Maharashtra",
+    "Unit": "10.11"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Orissa",
+    "Unit": "5.04"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Punjab",
+    "Unit": "6.59"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Rajasthan",
+    "Unit": "12.17"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Tamil Nadu",
+    "Unit": "2.89"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Uttar Pradesh",
+    "Unit": "19.96"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Uttaranchal",
+    "Unit": "0.93"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area West Bengal",
+    "Unit": "6.09"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Area Others",
+    "Unit": "3.33"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Andhra Pradesh",
+    "Unit": "17.93"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Assam",
+    "Unit": "4.76"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Bihar",
+    "Unit": "15.62"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Chhattisgarh",
+    "Unit": "7.63"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Gujarat",
+    "Unit": "7.32"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Haryana",
+    "Unit": "16.22"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Jharkhand",
+    "Unit": "4.3"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Karnataka",
+    "Unit": "10.93"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Madhya Pradesh",
+    "Unit": "23.42"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Maharashtra",
+    "Unit": "10.69"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Orissa",
+    "Unit": "8.35"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Punjab",
+    "Unit": "28.07"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Rajasthan",
+    "Unit": "18.03"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Tamil Nadu",
+    "Unit": "6.29"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Uttar Pradesh",
+    "Unit": "50.84"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Uttaranchal",
+    "Unit": "1.8"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume West Bengal",
+    "Unit": "16.51"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Volume Others",
+    "Unit": "6.64"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Andhra Pradesh",
+    "Unit": "2616"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Assam",
+    "Unit": "1889"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Bihar",
+    "Unit": "2329"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Chhattisgarh",
+    "Unit": "1514"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Gujarat",
+    "Unit": "1990"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Haryana",
+    "Unit": "3698"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Jharkhand",
+    "Unit": "1861"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Karnataka",
+    "Unit": "1472"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Madhya Pradesh",
+    "Unit": "1657"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Maharashtra",
+    "Unit": "1057"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Orissa",
+    "Unit": "1658"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Punjab",
+    "Unit": "4258"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Rajasthan",
+    "Unit": "1482"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Tamil Nadu",
+    "Unit": "2175"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Uttar Pradesh",
+    "Unit": "2547"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield Uttaranchal",
+    "Unit": "1939"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Yield West Bengal",
+    "Unit": "2711"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area",
+    "Unit": "42.8"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume",
+    "Unit": "104.4"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield",
+    "Unit": "2462"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Andhra Pradesh",
+    "Unit": "3.49"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Assam",
+    "Unit": "2.24"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Bihar",
+    "Unit": "3.25"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Chhattisgarh",
+    "Unit": "3.78"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Gujarat",
+    "Unit": "0.7"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Haryana",
+    "Unit": "1.22"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Jharkland",
+    "Unit": "1.35"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Karnataka",
+    "Unit": "1.27"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Kerala",
+    "Unit": "0.2"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Madhya Pradesh",
+    "Unit": "1.88"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Maharashtra",
+    "Unit": "1.55"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Orissa",
+    "Unit": "4.03"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Punjab",
+    "Unit": "2.85"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Tamil Nadu",
+    "Unit": "1.58"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Uttar Pradesh",
+    "Unit": "5.86"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area West Bengal",
+    "Unit": "5.43"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Area Others",
+    "Unit": "1.73"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Andhra Pradesh",
+    "Unit": "10910"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Arunachal Pradesh",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Assam",
+    "Unit": "4560"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Bihar",
+    "Unit": "7340"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Chhattisgarh",
+    "Unit": "6610"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Goa",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Gujarat",
+    "Unit": "1500"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Haryana",
+    "Unit": "3980"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Himachal Pradesh",
+    "Unit": "134.3"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Jammu and Kashmir",
+    "Unit": "545.6"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Jharkhand",
+    "Unit": "3030"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Karnataka",
+    "Unit": "3280"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Kerala",
+    "Unit": "530"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Madhya Pradesh",
+    "Unit": "2780"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Maharashtra",
+    "Unit": "3040"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Manipur",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Meghalaya",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Mizoram",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Nagaland",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Orissa",
+    "Unit": "7640"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Punjab",
+    "Unit": "11370"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Rajasthan",
+    "Unit": "222.5"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Sikkim",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Tamil Nadu",
+    "Unit": "4400"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Tripura",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Union Territories",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Uttar Pradesh",
+    "Unit": "14410"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume Uttaranchal",
+    "Unit": "581"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Volume West Bengal",
+    "Unit": "14960"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Andhra Pradesh",
+    "Unit": "3126"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Assam",
+    "Unit": "2036"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Bihar",
+    "Unit": "2258"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Chhattisgarh",
+    "Unit": "1749"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Gujarat",
+    "Unit": "2143"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Haryana",
+    "Unit": "3262"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Jharkland",
+    "Unit": "2244"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Karnataka",
+    "Unit": "2583"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Kerala",
+    "Unit": "2650"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Madhya Pradesh",
+    "Unit": "1479"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Maharashtra",
+    "Unit": "1961"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Orissa",
+    "Unit": "1896"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Punjab",
+    "Unit": "3989"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Tamil Nadu",
+    "Unit": "2785"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield Uttar Pradesh",
+    "Unit": "2459"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Rice Yield West Bengal",
+    "Unit": "2755"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area",
+    "Unit": "30"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume",
+    "Unit": "92.46"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield",
+    "Unit": "3117"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Assam",
+    "Unit": "0.05"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Bihar",
+    "Unit": "2.22"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Gujarat",
+    "Unit": "1.05"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Haryana",
+    "Unit": "2.5"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Himachal Pradesh",
+    "Unit": "0.36"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Jammu and Kashmir",
+    "Unit": "0.3"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Jharkhand",
+    "Unit": "0.16"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Karnataka",
+    "Unit": "0.23"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Madhya Pradesh",
+    "Unit": "5.3"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Maharashtra",
+    "Unit": "0.59"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Punjab",
+    "Unit": "3.52"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Rajasthan",
+    "Unit": "2.82"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Uttar Pradesh",
+    "Unit": "9.73"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Uttaranchal",
+    "Unit": "0.36"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area West Bengal",
+    "Unit": "0.32"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Area Others",
+    "Unit": "0.14"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Arunachal Pradesh",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Assam",
+    "Unit": "60"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Bihar",
+    "Unit": "5380"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Chhattisgarh",
+    "Unit": "141.3"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Goa",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Gujarat",
+    "Unit": "3140"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Haryana",
+    "Unit": "11120"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Himachal Pradesh",
+    "Unit": "540"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Jammu and Kashmir",
+    "Unit": "420"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Jharkhand",
+    "Unit": "270"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Karnataka",
+    "Unit": "170"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Kerala",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Madhya Pradesh",
+    "Unit": "13130"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Maharashtra",
+    "Unit": "880"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Manipur",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Meghalaya",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Mizoram",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Nagaland",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Orissa",
+    "Unit": "2.1"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Punjab",
+    "Unit": "16110"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Rajasthan",
+    "Unit": "8950"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Sikkim",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Tamil Nadu",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Tripura",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Union Territories",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Uttar Pradesh",
+    "Unit": "30300"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume Uttaranchal",
+    "Unit": "840"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Volume West Bengal",
+    "Unit": "910"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Assam",
+    "Unit": "1188"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Bihar",
+    "Unit": "2427"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Gujarat",
+    "Unit": "2986"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Haryana",
+    "Unit": "4452"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Himachal Pradesh",
+    "Unit": "1514"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Jammu and Kashmir",
+    "Unit": "1404"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Jharkhand",
+    "Unit": "1716"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Karnataka",
+    "Unit": "735"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Madhya Pradesh",
+    "Unit": "2478"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Maharashtra",
+    "Unit": "1473"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Punjab",
+    "Unit": "4573"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Rajasthan",
+    "Unit": "3175"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Uttar Pradesh",
+    "Unit": "3113"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield Uttaranchal",
+    "Unit": "2341"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Wheat Yield West Bengal",
+    "Unit": "2817"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area",
+    "Unit": "24.8"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume",
+    "Unit": "40.08"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield",
+    "Unit": "1626"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Andhra Pradesh",
+    "Unit": "1.41"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Bihar",
+    "Unit": "0.72"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Chhattisgarh",
+    "Unit": "0.26"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Gujarat",
+    "Unit": "1.25"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Haryana",
+    "Unit": "0.52"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Himachal Pradesh",
+    "Unit": "0.31"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Jammu and Kashmir",
+    "Unit": "0.35"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Jharkhand",
+    "Unit": "0.25"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Karnataka",
+    "Unit": "3.59"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Madhya Pradesh",
+    "Unit": "1.64"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Maharashtra",
+    "Unit": "4.69"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Orissa",
+    "Unit": "0.18"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Punjab",
+    "Unit": "0.15"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Rajasthan",
+    "Unit": "5.98"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Tamil Nadu",
+    "Unit": "0.7"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Uttar Pradesh",
+    "Unit": "2"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Uttaranchal",
+    "Unit": "0.25"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area West Bengal",
+    "Unit": "0.12"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Area Others",
+    "Unit": "0.27"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Andhra Pradesh",
+    "Unit": "5440"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Arunachal Pradesh",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Assam",
+    "Unit": "17"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Bihar",
+    "Unit": "2370"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Chhattisgarh",
+    "Unit": "240"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Goa",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Gujarat",
+    "Unit": "2070"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Haryana",
+    "Unit": "1000"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Himachal Pradesh",
+    "Unit": "670"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Jammu and Kashmir",
+    "Unit": "540"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Jharkhand",
+    "Unit": "410"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Karnataka",
+    "Unit": "6150"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Kerala",
+    "Unit": "0.3"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Madhya Pradesh",
+    "Unit": "2530"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Maharashtra",
+    "Unit": "4360"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Manipur",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Meghalaya",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Mizoram",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Nagaland",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Orissa",
+    "Unit": "290"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Punjab",
+    "Unit": "530"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Rajasthan",
+    "Unit": "6910"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Sikkim",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Tamil Nadu",
+    "Unit": "1650"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Tripura",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Union Territories",
+    "Unit": "NA"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Uttar Pradesh",
+    "Unit": "3690"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume Uttaranchal",
+    "Unit": "340"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Volume West Bengal",
+    "Unit": "630"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Andhra Pradesh",
+    "Unit": "3858"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Bihar",
+    "Unit": "3292"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Chhattisgarh",
+    "Unit": "923"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Gujarat",
+    "Unit": "1656"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Haryana",
+    "Unit": "1923"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Himachal Pradesh",
+    "Unit": "2161"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Jammu and Kashmir",
+    "Unit": "1543"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Jharkhand",
+    "Unit": "1640"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Karnataka",
+    "Unit": "1713"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Madhya Pradesh",
+    "Unit": "1543"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Maharashtra",
+    "Unit": "930"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Orissa",
+    "Unit": "1611"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Punjab",
+    "Unit": "3533"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Rajasthan",
+    "Unit": "1156"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Tamil Nadu",
+    "Unit": "2357"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Uttar Pradesh",
+    "Unit": "1845"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield Uttaranchal",
+    "Unit": "1360"
+  },
+  {
+    "Particulars": "Agricultural Production Foodgrains Coarse Cereals Yield West Bengal",
+    "Unit": "5250"
+  }
+]
