@@ -4,7 +4,7 @@ var fs = require("fs");
 var lineReader = require('readline').createInterface({
    input: require('fs').createReadStream('data.csv')
 });
-var myWriteStream = require("fs").createWriteStream("Part-1(b).json")
+var myWriteStream = require("fs").createWriteStream("foodgrains.json")
 lineReader.on('line', function(line) {
     var jsonFromLine = {};
     var lineSplit = line.split(',');

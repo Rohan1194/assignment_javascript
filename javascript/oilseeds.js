@@ -5,7 +5,7 @@ var lineReader = require('readline').createInterface({
    input: require('fs').createReadStream('data.csv')
 });
 
-var myWriteStream = require("fs").createWriteStream("Oilseeds.json")
+var myWriteStream = require("fs").createWriteStream("oilseeds.json")
 
 lineReader.on('line', function(line) {
     var jsonFromLine = {};
